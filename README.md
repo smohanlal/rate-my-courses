@@ -1,0 +1,1 @@
+A Rails application for rating your courses!
